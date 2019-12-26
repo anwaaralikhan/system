@@ -6,7 +6,7 @@
 - Run PowerShell as administrator
 - `npm i -g npm`
 
-#### Method 01
+#### Method 02
 
 - Run command prompt as Administrator
 - `npm install -g npm-windows-upgrade`
