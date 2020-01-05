@@ -1,3 +1,6 @@
+#### grep
+`grep 'ERROR' log-file.log`
+
 #### How to identify kernel version of the currently running system
 `uname -a`  Gives you every detail i.e System Information (Hostname, Kernel, OS, Architecture, Release etc)
 
