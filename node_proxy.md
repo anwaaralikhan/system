@@ -9,5 +9,5 @@ Run the commands below to set the proxy properly
 - npm config set https-proxy http://http.proxy.abc.com:port
 
 ### Test 
-Run the Command - npm install -g npm
-Run the command - npm install -g typescript
+Run the Command - `npm install -g npm`
+Run the command - `npm install -g typescript`
