@@ -1,4 +1,4 @@
-## Node
+## Node Setup
 
 Open an elevated Command Window
 Run the commands below to set the proxy properly
