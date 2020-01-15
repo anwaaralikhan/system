@@ -1,9 +1,9 @@
-## Node Setup
+# Node Setup
 
 Open an elevated Command Window
 Run the commands below to set the proxy properly
 
-#### Windows
+## Windows
 - npm config set proxy http://http.proxy.abc.com:port
 - npm config set http-proxy http://http.proxy.abc.com:port
 - npm config set https-proxy http://http.proxy.abc.com:port
